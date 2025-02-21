@@ -1,6 +1,6 @@
 pandas==2.2.2
 numpy==1.26.4
-time	==3.12.1
+time==3.12.1
 gc==3.12.1
 warnings==3.12.1
 lightgbm==4.5.0
